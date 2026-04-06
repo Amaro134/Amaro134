@@ -1,4 +1,4 @@
-👋 Hi, I'm Amarorwot Naomi
+👋 Hi, I am Amarorwot Naomi
 
  Backend Developer focused on building secure, scalable APIs and reliable systems.
 
