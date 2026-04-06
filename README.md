@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hi, I'm Amarorwot Naomi
 
-<!--
-**Amaro134/Amaro134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Backend Developer focused on building secure, scalable APIs and reliable systems.
 
-Here are some ideas to get you started:
+Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+TypeScript, Node.js, NestJS
+PostgreSQL, Prisma
+Docker, Git, REST APIs
+
+Projects I’ve worked on:
+
+Sports Application (REST API + frontend integration)
+School Management System Backend (API design & system architecture)
+
+Currently Exploring:
+
+Cloud (AWS)
+CI/CD with GitHub Actions
+System design & performance optimization
+
+Connect with me:
+LinkedIn
+
+Philosophy:
+
+Build systems that are secure, scalable, and built to last.
