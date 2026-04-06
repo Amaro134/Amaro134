@@ -5,7 +5,7 @@
 Tech Stack:
 
 TypeScript, Node.js, NestJS
-PostgreSQL, Prisma
+PostgreSQL, Prisma, Python, Django, 
 Docker, Git, REST APIs
 
 Projects I’ve worked on:
