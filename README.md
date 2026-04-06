@@ -4,7 +4,7 @@
 
 Tech Stack:
 
-TypeScript, Node.js, NestJS
+TypeScript, Node.js, NestJS, 
 PostgreSQL, Prisma, Python, Django, 
 Docker, Git, REST APIs
 
@@ -20,7 +20,7 @@ CI/CD with GitHub Actions
 System design & performance optimization
 
 Connect with me:
-LinkedIn
+LinkedIn: https://www.linkedin.com/in/amarorwot-naomi-b8ab92370/
 
 Philosophy:
 
