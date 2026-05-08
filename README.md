@@ -11,7 +11,7 @@ Docker, Git, REST APIs
 Projects I’ve worked on:
 
 Sports Application (REST API + frontend integration)
-School Management System Backend (API design & system architecture)
+
 
 Currently Exploring:
 
